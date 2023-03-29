@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #201f1f;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.taskHere {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  border-radius: 15px;
+}
+
+.row {
+  border-top: 1px solid rgb(231, 224, 224);
+}
+
+.hour {
+  background-color: rgb(231, 224, 224);
+  color: #201f1f;
+  border-top: 1px dashed #201f1f;
+}
+
+.saveBtn {
+  border-left: 1px solid rgb(15, 14, 14);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #2168ec;
+  color: rgb(231, 224, 224);
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* .past, .present, .future divs added by JS */
+.past {
+  background-color: #8ed8e5;
+  color: rgb(231, 224, 224);
+}
+
+.present {
+  background-color: #f7f474;
+  color: rgb(231, 224, 224);
+}
+
+.future {
+  background-color: #cf4d2d;
+  color: rgb(231, 224, 224);
+}
