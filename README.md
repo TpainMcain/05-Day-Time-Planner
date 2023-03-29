@@ -8,7 +8,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 
 ## Screenshots
-![Scheduler](/Assets/pics/dtp1.png?raw=true "Scheduler")
+![Scheduler](/assets/pics/dtp1.png?raw=true "Scheduler")
 
 ## Getting Started
 Open index.html in default browser.
