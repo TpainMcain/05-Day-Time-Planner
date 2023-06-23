@@ -15,6 +15,3 @@ Open index.html in default browser.
 
 ## License
 MIT License
-
-## Acknowledgments
-https://github.com/nicnolen
